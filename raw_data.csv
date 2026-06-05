@@ -1,0 +1,11 @@
+CustomerID,Name,Age,City,Salary,PurchaseAmount
+101.0, Alice ,25.0,Hyderabad,50000.0,200.0
+102.0,BOB,30.0,Bangalore,60000.0,450.0
+103.0,charlie,,chennai,55000.0,300.0
+104.0,David,22.0,Mumbai,,150.0
+105.0,Eve,28.0,Delhi,70000.0,
+101.0, Alice ,25.0,Hyderabad,50000.0,200.0
+106.0,Frank,35.0,,80000.0,500.0
+107.0,george,40.0,Pune,90000.0,600.0
+,Hannah,,Mumbai,65000.0,350.0
+109.0,,29.0,Delhi,72000.0,400.0
